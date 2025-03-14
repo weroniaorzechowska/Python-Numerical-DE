@@ -16,19 +16,6 @@ Differential equations are fundamental in modeling dynamic systems in physics, b
 - **Equilibrium Points Analysis**: Investigating stability in dynamical systems
 - **Phase Portraits**: Visualizing system behavior in phase space
 
-## Project Structure 📂
-```plaintext
-📁 Numerical-DE-Solver
-│-- 📜 2step_method.py            # Implementation of 2-step numerical solvers
-│-- 📜 lotka_volterra.py          # Simulation of the Lotka-Volterra predator-prey model
-│-- 📜 separation_variables.py    # Solving differential equations by separation of variables
-│-- 📜 heat_conduction.py         # Numerical methods for heat conduction equation
-│-- 📜 fourier_finite_diff.py     # Fourier and finite difference solutions
-│-- 📜 gompertz_tumor_growth.py   # Analysis of tumor growth using Gompertz Law
-│-- 📜 equilibrium_analysis.py    # Stability and equilibrium points computation
-│-- 📜 phase_portraits.py         # Visualization of phase portraits
-│-- 📜 README.md                  # Project documentation
-```
 
 ## Technologies Used 🛠️
 The project utilizes the following Python libraries:
